@@ -1,0 +1,2 @@
+o#!/bin/bash
+chmod 752 ./hello
